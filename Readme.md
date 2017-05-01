@@ -1,5 +1,1 @@
-# sticky-note
-Feathures
-  1
-  2
-  3
+This simple Web App let's you mark some notes to remember using local storage of your browser.
