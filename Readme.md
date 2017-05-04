@@ -1,6 +1,6 @@
 # Features
 This simple Web App let's you mark some notes to remember using *local storage* of your browser.
-''' javascript
+```javascript
  <script>
         function getNote(){
             if(localStorage.getItem('note')){
@@ -21,4 +21,4 @@ This simple Web App let's you mark some notes to remember using *local storage* 
             return false;
         }
     </script>
-    '''
+  ```
